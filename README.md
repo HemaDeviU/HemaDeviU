@@ -8,7 +8,7 @@ Hey! I'm Hema, a Blockchain developer with a keen interest in decentralized appl
 
 ## Projects I enjoyed
 
-- **[Raffle](https://github.com/HemaDeviU/Raffle-Dapp):** A decentralized finance (DeFi) application for a provably fair lottery.
+- **[Raffle](https://github.com/HemaDeviU/Raffle-Dapp):** A decentralized application for a provably fair lottery.
 
 ## Skills
 
