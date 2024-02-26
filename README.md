@@ -1,6 +1,6 @@
 # Hema Devi U
 
-Hey! I'm Hema, a Blockchain developer with a keen interest in decentralized applications and smart contracts. I hold a degree in Computer Science and Engineering and have been actively involved in blockchain development for over a year. My journey began with an awe for decentralization, and since then, I've been dedicated to learning, experimenting, and building some cool stuff on Ethereum.
+Hey! I'm Hema, a Blockchain developer with a keen interest in decentralized applications and smart contracts. I hold a degree in Computer Science and Engineering and have been actively involved in blockchain development for over a year. My journey began with an awe for decentralization, and since then, I've been dedicated to learning, experimenting, and building some cool stuff on Ethereum. I am currently leaning to audit smart contracts and make web3 safer :)
 
 ## I’m currently working on
 
