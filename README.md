@@ -6,13 +6,11 @@ Hey ! I'm Hema, a blockchain developer with a keen interest in decentralized app
 
 ##  I’m currently working on
 
-- **[Raffle](link):** A decentralized finance (DeFi) application for an almost fair lottery.
+- **[DEX](link):** A decentralized exchange to between two tokens.
 
 ##  Projects I enjoyed
 
-1. **[DAO](link):** 
-2. **[MultiSignatureWallet](link):** 
-3. **[Ethereum Sherlock](link):** 
+- **[Raffle](link):** A decentralized finance (DeFi) application for a provable fair lottery.
 
 ##  Skills
 
