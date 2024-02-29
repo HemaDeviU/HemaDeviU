@@ -4,11 +4,12 @@ Hey! I'm Hema, a Blockchain developer with a keen interest in decentralized appl
 
 ## I’m currently working on
 
-- **[DEX](https://github.com/HemaDeviU/DEX):** A decentralized exchange between two tokens.
+- **[Efficient-Uniswapv2]:** Better than Uniswap v2 DEX, that is more gas efficient and robust than uniswapv2.
 
 ## Projects I enjoyed
 
 - **[Raffle](https://github.com/HemaDeviU/Raffle-Dapp):** A decentralized application for a provably fair lottery.
+- **[AMM](https://github.com/HemaDeviU/DEX):** A decentralized application for a provably fair lottery.
 
 ## Skills
 
