@@ -9,7 +9,7 @@ Hey! I'm Hema, a Smart Contract developer. I hold a degree in Computer Science a
 ## Projects I enjoyed
 
 - **[Raffle](https://github.com/HemaDeviU/Raffle-Dapp):** A decentralized application for a provably fair lottery.
-- **[AMM](https://github.com/HemaDeviU/DEX):** A decentralized application for a provably fair lottery.
+- **[AMM](https://github.com/HemaDeviU/DEX):** 
 
 ## Skills
 
