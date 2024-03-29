@@ -1,5 +1,5 @@
 Hey! I'm Hema, a Smart Contract developer. I'm a Computer Science and Engineer and have been actively involved in blockchain development for over a year.
-I'm currently learning smart contract auditing and YUL.
+I'm currently learning smart contract auditing from Cyfrin Updraft.
 
 Feel free to reach out to me through:
 - Email: uhemadevi1927@gmail.com
