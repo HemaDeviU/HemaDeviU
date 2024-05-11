@@ -12,6 +12,6 @@ Feel free to reach out to me through:
 - LinkedIn: www.linkedin.com/in/hema-devi-u
 
 Here is my favourite project
-An ecommerce Dapp for Digital Products with NFT mints for custom Digital Products.(Won a Arbitrum Pool prize on ScalingEthereum hackathon)
+An ecommerce Dapp for Digital Products with NFT mints for custom Digital Products.(🏆Won a Arbitrum Pool prize on ScalingEthereum hackathon)
 
 I'm always open to new opportunities, collaborations, or simply discussing blockchain and its potential for hours. Drop a message on my email, I'd love to connect with you!
