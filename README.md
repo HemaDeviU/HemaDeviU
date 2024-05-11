@@ -5,7 +5,7 @@ I'm currently learning smart contract auditing from Cyfrin Updraft and am curern
 - A Podcast DApp for cross IP attribution and collaborative IP registry for creators (Ethereum,Solidity,Foundry,Story Protocol).
 
 
-I mostly work with **Solidity,YUL and foundry**. However I have recently been enjoying move too.
+I mostly work with **Solidity,YUL and foundry**. 
 
 Feel free to reach out to me through:
 - Email: uhemadevi1927@gmail.com
