@@ -1,8 +1,8 @@
 Hey! I'm Hema, a **Smart Contract developer**. I'm a Computer Science and Engineer and have been actively involved in blockchain development for over a year.
 I'm actively looking for a job and meanwhile building these projects:
 
-- An Event management platform with on-chain nfts- Challengine myself to learn the new blockchain & language to build this in 20 days.(Sui,Move,dwallet)
 - A Podcast DApp for cross IP attribution and collaborative IP registry for creators (Ethereum,Solidity,Foundry,Story Protocol).
+- An Event management platform with on-chain nfts.(Sui,Move,dwallet)
 
 
 I mostly comfortable building and testing with **Solidity,YUL and foundry**. 
