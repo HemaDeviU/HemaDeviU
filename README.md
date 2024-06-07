@@ -1,15 +1,18 @@
 Hey! I'm Hema, a **Smart Contract developer**. I'm a Computer Science and Engineer and have been actively involved in blockchain development for over a year.
 I'm actively looking for a job and meanwhile building these projects:
 
-- A Podcast DApp for cross IP attribution and collaborative IP registry for creators (Ethereum,Solidity,Foundry,Story Protocol).
 - An Event management platform with on-chain nfts.(Sui,Move,dwallet)
 
 
 I mostly comfortable building and testing with **Solidity,YUL and foundry**. 
 
 
-Here is one my favourite project that won 🏆 a Arbitrum Pool prize on ScalingEthereum hackathon✨🙌🏾.
-- An ecommerce Dapp for Digital Products with NFT mints for custom Digital Products.
+Here are my favourite projects that won 🏆 
+- Story Protocol Buildathon v1.0 -  Winner 🥇🙌
+  For building a Podcast Dapp with IP Attribution for creator's content.(Ethereum,Solidity,Foundry,StoryProtocol)
+  
+- Arbitrum Pool prize on ScalingEthereum hackathon✨.
+  An ecommerce Dapp for Digital Products with NFT mints for custom Digital Products.(Arbitrum,Solidity,Foundry)
 
 
 Feel free to reach out to me through:
