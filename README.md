@@ -7,8 +7,8 @@ I'm actively looking for a job and meanwhile building these projects:
 I mostly comfortable building and testing with **Solidity,YUL and foundry**. 
 
 
-Here are my favourite projects that won 🏆 
-- Story Protocol Buildathon v1.0 -  Winner 🥇🙌
+Here are my favourite projects that Won 🏆 
+- Story Protocol Buildathon v1.0 -  *Winner* 🥇🙌
   For building a Podcast Dapp with IP Attribution for creator's content.(Ethereum,Solidity,Foundry,StoryProtocol)
   
 - Arbitrum Pool prize on ScalingEthereum hackathon✨.
