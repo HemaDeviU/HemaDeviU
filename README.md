@@ -1,7 +1,7 @@
 Hey! I'm Hema, a **Smart Contract developer**. I'm a Computer Science and Engineer and have been actively involved in blockchain development for over a year.
 I'm actively looking for a job and meanwhile building these projects:
 
-- An Event management platform with on-chain nfts.(Sui,Move,dwallet)
+-A Stealth Address System for Starknet
 
 
 I mostly comfortable building and testing with **Solidity,YUL and foundry**. 
