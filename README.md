@@ -4,7 +4,7 @@ I'm actively looking for a job and meanwhile building these projects:
 -A Stealth Address System for Starknet
 
 
-I mostly comfortable building and testing with **Solidity,YUL and foundry**. 
+I comfortable building and testing with **Solidity,YUL and foundry**. 
 
 
 Here are my favourite projects that Won 🏆 
