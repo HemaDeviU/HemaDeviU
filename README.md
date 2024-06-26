@@ -12,7 +12,7 @@ Here are my favourite projects that Won 🏆
   StoryPods-  Built a Podcast Dapp with IP Attribution for creator's content.(Ethereum,Solidity,Foundry,StoryProtocol)
   
 - Starkhack by Ethglobal - **1st Prize**✨🥇
-  Witness Analytics- Built a dashboard for starknet using tokenflow to display unique indightful data.(Starknet,Tokenflow,SQL)
+  Witness Analytics- Built a dashboard for starknet using tokenflow to display unique insightful data.(Starknet,Tokenflow,SQL)
   
 - Arbitrum Pool prize on ScalingEthereum hackathon✨.
   HappyCorn- An ecommerce Dapp for Digital Products with NFT mints for custom Digital Products.(Arbitrum,Solidity,Foundry)
