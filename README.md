@@ -8,11 +8,11 @@ I'm comfortable building and testing with **Solidity,YUL and foundry**.
 
 
 Here are my favourite projects that Won 🏆 
-- Story Protocol Buildathon v1.0 -  **2nd Prize** 🥇🙌
-  StoryPods-  Built a Podcast Dapp with IP Attribution for creator's content.(Ethereum,Solidity,Foundry,StoryProtocol)
-  
 - Starkhack by Ethglobal - **1st Prize**✨🥇
   Witness Analytics- Built a dashboard for starknet using tokenflow to display unique insightful data.(Starknet,Tokenflow,SQL)
+  
+- Story Protocol Buildathon v1.0 -  **2nd Prize** 🥇🙌
+  StoryPods-  Built a Podcast Dapp with IP Attribution for creator's content.(Ethereum,Solidity,Foundry,StoryProtocol)
   
 - Arbitrum Pool prize on ScalingEthereum hackathon✨.
   HappyCorn- An ecommerce Dapp for Digital Products with NFT mints for custom Digital Products.(Arbitrum,Solidity,Foundry)
