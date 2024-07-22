@@ -6,7 +6,7 @@ I'm comfortable building and testing with **Solidity,YUL and foundry**.
 
 Here are my favourite projects that Won 🏆 
 
--Stellar Residency - **Winner**🏅 
+- Stellar Residency - **Winner**🏅 
   Stellar Hunt- Built an onchain shooting game with on-chain track of NFT skins and game elements. (Stellar,Soroban)
 
 - Starkhack by Ethglobal - **1st Prize**✨🥇
