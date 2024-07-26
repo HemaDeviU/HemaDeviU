@@ -6,9 +6,6 @@ I'm comfortable building and testing with **Solidity,YUL and foundry**.
 
 Here are my favourite projects that Won 🏆 
 
-- Stellar Builders Residency - **Winner**🏅 
-  Stellar Hunt- Built an onchain shooting game with on-chain track of NFT skins and game elements. (Stellar,Soroban)
-
 - Starkhack by Ethglobal - **1st Prize**✨🥇
   Witness Analytics- Built a dashboard for starknet using tokenflow to display unique insightful data.(Starknet,Tokenflow,SQL)
   
