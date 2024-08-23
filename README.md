@@ -19,7 +19,6 @@ Here are my favourite projects that Won 🏆
 
 
 Feel free to reach out to me through:
-- Email: 0xhemadevi@gmail.com
 - LinkedIn: www.linkedin.com/in/hema-devi-u
 - You probably recognize me from : [here](https://www.youtube.com/channel/UCb-QvPY46LgMuuyaB3yuoAQ)
   
