@@ -6,6 +6,10 @@ I'm comfortable building and testing with **Solidity,YUL and foundry**.
 
 Here are my favourite projects that Won 🏆 
 
+- Hello Future by Hedera - **Winner**
+  Launchez - A memecoin launchpad on Hedera using bonding curve between token supply and price. (Solidity, Hedera Token Service, Hedera Smart Contract Service)
+
+
 - Starkhack by Ethglobal - **1st Prize**✨🥇
   Witness Analytics- Built a dashboard for starknet using tokenflow to display unique insightful data.(Starknet,Tokenflow,SQL)
   
