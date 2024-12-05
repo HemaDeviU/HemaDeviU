@@ -1,11 +1,17 @@
 Hey! I'm Hema, a **Smart Contract developer**. I'm a Computer Science and Engineer and have been actively involved in blockchain development for over a year. Learning Rust atm👩🏽‍💻
 I'm actively looking for a job.
 
-I'm comfortable building and testing with **Solidity,YUL and foundry**. 
+I'm comfortable building and testing with **Solidity,YUL and Foundry**. 
 
 
 Here are my favourite projects that Won 🏆 
 
+-Sigma Sprint by Wormhole - **1st Prize** among 3500+ participants!
+  DCAwesome - A Dollar cost averaging dapp with self-custodial user set DCA-in and DCA-out strategies. (Product Management,Solidity,Ethereum)
+
+-Ethglobal Bangkok-  **4th Prize**
+  Sounds Good - A Listen-to-earn Podcast streaming platform on Flow with censorship resistant streaming for creators. (Product Management,Solidity,Foundry,Flow)
+  
 - Hello Future by Hedera - **Winner**
   Launchez - A memecoin launchpad on Hedera using bonding curve between token supply and price. (Product Management)
 
