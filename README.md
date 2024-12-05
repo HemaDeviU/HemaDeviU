@@ -6,15 +6,14 @@ I'm comfortable building and testing with **Solidity,YUL and Foundry**.
 
 Here are my favourite projects that Won 🏆 
 
--Sigma Sprint by Wormhole - **1st Prize** among 3500+ participants!
+- Sigma Sprint by Wormhole - **1st Prize** among 3500+ participants!
   DCAwesome - A Dollar cost averaging dapp with self-custodial user set DCA-in and DCA-out strategies. (Product Management,Solidity,Ethereum)
 
--Ethglobal Bangkok-  **4th Prize**
+- Ethglobal Bangkok-  **4th Prize**
   Sounds Good - A Listen-to-earn Podcast streaming platform on Flow with censorship resistant streaming for creators. (Product Management,Solidity,Foundry,Flow)
   
 - Hello Future by Hedera - **Winner**
   Launchez - A memecoin launchpad on Hedera using bonding curve between token supply and price. (Product Management)
-
 
 - Starkhack by Ethglobal - **1st Prize**✨🥇
   Witness Analytics- Built a dashboard for starknet using tokenflow to display unique insightful data.(Starknet,Tokenflow,SQL)
