@@ -13,7 +13,7 @@ Here are my favourite projects that Won 🏆
   Sounds Good - A Listen-to-earn Podcast streaming platform on Flow with censorship resistant streaming for creators. (Solidity,Foundry,Flow)
   
 - Hello Future by Hedera - **Winner**
-  Launchez - A memecoin launchpad on Hedera using bonding curve between token supply and price. (Product Management,Solidity,Foundry,)
+  Launchez - A memecoin launchpad on Hedera using bonding curve between token supply and price. (Product Management,Solidity,Foundry,HTS,Hedera)
 
 - Starkhack by Ethglobal - **1st Prize**✨🥇
   Witness Analytics- Built a dashboard for starknet using tokenflow to display unique insightful data.(Starknet,Tokenflow,SQL)
