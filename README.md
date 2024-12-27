@@ -1,5 +1,5 @@
 Hey! I'm Hema, a **Smart Contract developer**. I'm a Computer Science and Engineer and have been actively involved in blockchain development for over a year. Learning Vyper atm👩🏽‍💻
-I'm actively looking for a job.
+
 
 I'm love building with **Solidity,YUL and Foundry**. 
 
