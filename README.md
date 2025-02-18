@@ -6,15 +6,16 @@ I'm love building with **Solidity and Foundry**.
 
 Here are my favourite projects that Won 🏆 
 
+- Agentic Ethereum by EthGlobal - **Finalist**
+  PvPvAI - A prediction market game where players create AI agents to analyze tokens, bet on decisions, and influence discussions with strategic PvP actions. (Solidity,Foundry,
+
+
 - Sigma Sprint by Wormhole - **1st Prize** among 3500+ participants!
   DCAwesome - A Dollar cost averaging dapp with self-custodial user set DCA-in and DCA-out strategies. (Solidity,Foundry,Wormhole,Ethereum)
 
 - Ethglobal Bangkok-  **4th Prize**
   Sounds Good - A Listen-to-earn Podcast streaming platform on Flow with censorship resistant streaming for creators. (Solidity,Foundry,Flow)
   
-- Hello Future by Hedera - **Winner**
-  Launchez - A memecoin launchpad on Hedera using bonding curve between token supply and price. (Product Management,Solidity,Foundry,HTS,Hedera)
-
 - Starkhack by Ethglobal - **1st Prize**✨🥇
   Witness Analytics- Built a dashboard for starknet using tokenflow to display unique insightful data.(Starknet,Tokenflow,SQL)
   
