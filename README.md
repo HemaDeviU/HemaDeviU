@@ -7,7 +7,7 @@ I'm love building with **Solidity and Foundry**.
 Here are my favourite projects that Won 🏆 
 
 - Agentic Ethereum by EthGlobal - **Finalist**
-  PvPvAI - A prediction market game where players create AI agents to analyze tokens, bet on decisions, and influence discussions with strategic PvP actions. (Solidity,Foundry,
+  PvPvAI - A prediction market game where players create AI agents to analyze tokens, bet on decisions, and influence discussions with strategic PvP actions. (Solidity,Foundry,Ethereum)
 
 
 - Sigma Sprint by Wormhole - **1st Prize** among 3500+ participants!
